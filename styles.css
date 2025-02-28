@@ -1,0 +1,40 @@
+body{
+    color: white;
+    text-align: center;
+    font-family: "Ethnocentric";
+    margin: 0px;
+}
+button{
+    padding: 6px 15px;
+    font-size: larger;
+    background-color: white;
+    border: 0px;
+    font-family: "Orbitron";
+    color: white;
+    border-radius: 9px;
+    background-color: #7059a1;
+    font-weight: bold;
+
+}
+@font-face {
+    font-family: "Ethnocentric";
+    src: url("ethnocentric/Ethnocentric\ Rg.otf");
+}
+.exp{
+    border-bottom: 4px solid;
+}
+#image{
+    height: 100px;
+}
+.hero{
+    background-image: url("images/space_clouds.gif");
+    background-size:cover;
+    padding:10px 0px 200px 0px;
+}
+.terms{
+    color: #4C438B;
+}
+.title{
+    text-shadow: 0px 0px 7px white;
+
+}
